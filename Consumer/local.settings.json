@@ -1,0 +1,13 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Port=3306;Database=true_code;Uid=user;Pwd=12345;"
+  },
+  "MassTransitOptions": {
+    "isDebug": false,
+    "Host": "localhost",
+    "Port": "5672",
+    "VirtualHost": "/",
+    "UserName": "user",
+    "Password": "user"
+  }
+}

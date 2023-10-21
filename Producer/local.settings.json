@@ -1,0 +1,10 @@
+﻿{
+  "MassTransitOptions": {
+    "isDebug": false,
+    "Host": "localhost",
+    "Port": "5672",
+    "VirtualHost": "/",
+    "UserName": "user",
+    "Password": "user"
+  }
+}
