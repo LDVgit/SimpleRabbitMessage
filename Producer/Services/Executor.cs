@@ -16,8 +16,7 @@
 
         public async Task ExecuteAsync(string[] args)
         {
-            //var path = args[0];
-            var path = "E:\\Projects\\taskInterview\\true_code_test\\testFile.txt";
+            var path = args[0];
             if (string.IsNullOrEmpty(path))
             {
                 Console.WriteLine("Пожалуйста передайте полное имя файла как аргумент!");
